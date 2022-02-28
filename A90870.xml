@@ -1,0 +1,587 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious exercitation upon, or an impassionate vindication of 1 John 5.20. This is the true God--in reference to a printed conference between Mr. Samuel Eaton, and Mr. John Knowles for the beating out of the truth concerning the divinity of Jesus Christ. / By Thomas Porter M.A. Minister of the Gospel at Whitchurch. Decemb. 26. 1650. Imprimatur, Edm. Calamy.</title>
+            <author>Porter, Thomas, d. 1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90870</idno>
+            <idno type="STC">Wing P2998D</idno>
+            <idno type="STC">Thomason E621_9</idno>
+            <idno type="STC">ESTC R206411</idno>
+            <idno type="EEBO-CITATION">99865573</idno>
+            <idno type="PROQUEST">99865573</idno>
+            <idno type="VID">117818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117818)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E621[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious exercitation upon, or an impassionate vindication of 1 John 5.20. This is the true God--in reference to a printed conference between Mr. Samuel Eaton, and Mr. John Knowles for the beating out of the truth concerning the divinity of Jesus Christ. / By Thomas Porter M.A. Minister of the Gospel at Whitchurch. Decemb. 26. 1650. Imprimatur, Edm. Calamy.</title>
+                  <author>Porter, Thomas, d. 1667.</author>
+               </titleStmt>
+               <extent>[6], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. and E.M. for Ralph Smith, at the signe of the blew Bible in Cornhill near the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "1650", the 51 imprint date crossed out.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Divinity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:117818:1" rendition="simple:additions"/> A Serious EXERCITATION Upon, Or an Impaſſionate Vindication OF
+<q>
+                  <bibl>1 John 5. 20.</bibl> 
+                  <hi>This is the true God</hi>—</q>
+            </p>
+            <p>In Reference to a printed Conference between Mr. <hi>SAM<g ref="char:V">Ʋ</g>EL EATON,</hi> and Mr. <hi>JOHN KNOWLES</hi> for the beating out of the Truth concerning the DIVINITY of <hi>JES<g ref="char:V">Ʋ</g>S CHRIST.</hi>
+            </p>
+            <p>By <hi>Thomas Porter M. A.</hi> Miniſter of the Goſpel at
+<hi>Whitchurch.</hi>
+            </p>
+            <q>
+               <p>Tamet ſi hunc locum eludere ARRIANI conati ſunt, &amp; illis HODIE ſub<g ref="char:EOLhyphen"/>ſcribunt QUIDAM; hîc tamen inſigne habemus DIVINITATIS Chriſti Elogium.</p>
+               <bibl>
+                  <hi>Calv. in 1 John</hi> 5. 20.</bibl>
+            </q>
+            <q>
+               <p>Omnes ANTICHRISTI Chriſtum negant aliquo modo. Verbis? Hoc falſum: Plurimi enim tam clarè profeſſi ſunt Ieſum eſſe Chriſtum quam ullus Catholicorum, ſi ſola verba attendas, ARRIANI, Neſtoriani, Eutychiani, alii</p>
+               <bibl>
+                  <hi>Chamier de Antichriſto. l. 17. c. 11. f.</hi>
+4.</bibl>
+            </q>
+            <q>
+               <p>ARRIUS erat ſtaturâ valdè longus, ſubtriſti ſpecie figuratus velut doloſus Serpens, qui decipere poſſet omne innocens cor per VERSUTUM SUUM PRAETEXTUM—DULCIS erat in COLLOQUIO, perſuadens ſemper animas ac BLANDIENS, &amp;c.</p>
+               <bibl>
+                  <hi>Epiph. l. 2. Tom. 2. Haereſ.</hi> 69.</bibl>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Decemb.</hi> 26. 1650.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Imprimatur,</hi>
+                        </p>
+                        <closer>
+                           <signed>Edm. Calamy.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. R.</hi> and <hi>E. M.</hi> for
+<hi>Ralph Smith,</hi> at the ſigne of the blew Bible in <hi>Cornhill</hi> near the Royal Exchange. 1651.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:117818:2"/>
+            <head>
+               <hi>An Extract of a Letterwritten from ſome Miniſters of the Goſpel to the Author of the</hi> Exercitation <hi>or</hi> Vindication.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE bleſſe God that hath inclined your heart in your vacant hours (ſpecially in the ſad time of Gods viſitation) to appear for Jeſus Chriſt, in a con<g ref="char:EOLhyphen"/>troverſie of ſo high concernment. As we can<g ref="char:EOLhyphen"/>not but acknowledge ſtrength of parts in your adverſary, in his managing of ſo bad a cauſe; howſoever; ſtreights (as it fares with all in ſuch engagements) put him upon contradictions; ſo we rejoyce to ſee your accurate diligence an<g ref="char:EOLhyphen"/>ſwered with ſuch acuteneſſe, that his wiles have no lurking hole left to avoid the force of Truth in your Anſwer,—We would fain ſee that eldeſt ſon of <hi>Anak</hi> fall. The Lord in whoſe cauſe you engage, give an happy ſucceſſe, &amp;c.</p>
+            <pb facs="tcp:117818:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:117818:3"/>
+            <pb facs="tcp:117818:3"/>
+            <head>To Maſter <hi>JOHN KNOWLES</hi> late Preacher at
+<hi>Cheſter.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is reported of</hi> Valens
+<note n="a" place="margin">Jubet <hi>Valens</hi> edictum de Ba<g ref="char:EOLhyphen"/>ſilio in exilium mittendo con<g ref="char:EOLhyphen"/>ſcribi, quod cum ſua manu ratum facere conaretur, ne apicem qui<g ref="char:EOLhyphen"/>dem unum ali<g ref="char:EOLhyphen"/>cujus literae fa<g ref="char:EOLhyphen"/>cere potuit; ſi<g ref="char:EOLhyphen"/>quidem ruptus eſt calamus, neque id ſemel ſed iterum ac tertio accidit. Ac cum impi<g ref="char:EOLhyphen"/>um illud Edi<g ref="char:EOLhyphen"/>ctum confir<g ref="char:EOLhyphen"/>mate impenſiùs laboraret, con<g ref="char:EOLhyphen"/>cuſſa eſt dexte<g ref="char:EOLhyphen"/>ra, tremorque eum occupavit. Atque cùm a<g ref="char:EOLhyphen"/>nimo eſſet prae metu prope attonito, char<g ref="char:EOLhyphen"/>tam manibus dilaceravit. <hi>Theodor. Eccl. Hist. l.
+4. c.</hi> 17.</note> 
+               <hi>(that Arrian Emperour) that as he was attempt<g ref="char:EOLhyphen"/>ing to ſigne an Edict for the baniſh<g ref="char:EOLhyphen"/>ing of</hi> Baſil, <hi>he could not write one tittle of a Letter, Providence brea<g ref="char:EOLhyphen"/>king his Pen three ſeveral times; at the fourth aſſay his hand was ſtricken with a ſhaking Palſie, and thereupon as a man affrighted with his own hands, he tore in pieces the Paper. In this you might have imitated him, if the ſpirit of horrour had ſeized on you, when you firſt put Pen to pa<g ref="char:EOLhyphen"/>per to print your conference with Maſter</hi> Eaton. <hi>Howſoever, you are beholding to free grace in ſpa<g ref="char:EOLhyphen"/>ring you, who have not ſpared to rob Jeſus Chriſt (as much as in you lieth) of his Deity. I have no leaſure to reply to your whole book (though its fea<g ref="char:EOLhyphen"/>ſible, being for the moſt part but a Magazine of the ruſty Armour of</hi> Arrius, Samoſatenus, Servetus, Socinus, Valentinus Gentiles, <hi>&amp;c. ſcoured up
+<pb facs="tcp:117818:4"/> and trim'd anew) I have only pitcht upon one Scripture, and the rather becauſe you</hi>
+               <note n="b" place="margin">The words I confeſſe at the firſt bluſh ſeem to ſtand on your ſide. <hi>Confer. p.</hi> 11.</note>
+               <hi>hint, it ſpeaks moſt clearly for Maſter</hi> Eatons <hi>cauſe. And if (but) this one Fort be maintained againſt your ſcaling Ladders, battering Peeces and powder Mines, you have no great reaſon to cry</hi> VICTORIA <hi>(though you may be beaten off from the reſt too, notwith<g ref="char:EOLhyphen"/>ſtanding your deſperate aſſaults.) I have (accord<g ref="char:EOLhyphen"/>ing to the advice of your High-flown Epiſtoler) ſtudied to reaſon and not to revile, eſpecially you being ſo much as by face unknown to me. Beſeech<g ref="char:EOLhyphen"/>ing you to draw (with an unbyaſſed judgment and an unbrib'd affection) your own</hi>
+               <note n="c" place="margin">Conference <hi>p. 30. f.</hi>
+               </note>
+               <hi>rule into Act: Be<g ref="char:EOLhyphen"/>take your ſelf to reaſon, whereby the ſpirit may con<g ref="char:EOLhyphen"/>vince you of</hi> WHOM <hi>the text under Examinati<g ref="char:EOLhyphen"/>on is to be underſtood. Let all be taken by you, as tendred by me, with a ſpirit of love and meek<g ref="char:EOLhyphen"/>neſſe. And the Lord give you the Spirit of a ſound mind and underſtanding in all things, which is the Cordial prayers of him who is</hi>
+            </p>
+            <closer>
+               <signed>Yours if you be indeed for Chriſt, T. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117818:4"/>
+            <head>AN EXERCITATION On 1 JOHN 5. 10. <hi>This is the true God and eternal life.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe words relate not to the Son but to the
+<note place="margin">Mr. <hi>Knowls p. 11. Sect.</hi> 1.</note> Father only. For 1. If we conſider thoſe words, as an entire body of themſelves, not having dependance on the words immedi<g ref="char:EOLhyphen"/>ately preceding, as probably they have not, being by a full point ſeparated from them, then they are the Epitome, Abridgment, or Summe of the whole Epiſtle. And ſo the Apoſtles mind ſeems to be this: This father which I have in this my Epiſtle trea<g ref="char:EOLhyphen"/>ted of, is the true God; and this Ieſus Chriſt of whom I have ſpoken, and in whom ye have believed, is eternal life, <hi>i.e.</hi> the way to it.</p>
+            <p n="1">1. Sir conſider, how you can acquit your ſelf from the
+<note place="margin">Reply.</note> guilt of two contradictions. 1.
+<hi>Theſe words relate to the fa<g ref="char:EOLhyphen"/>ther—AS AN INTIRE body of themſelves.</hi> Are the ſame words in the ſame reſpect, abſolute and not abſo<g ref="char:EOLhyphen"/>lute,
+<pb n="2" facs="tcp:117818:5"/> relative and not relative? is not here an implicit contradiction? 2. You ſay, <hi>line</hi> 10, 11. <hi>The words re<g ref="char:EOLhyphen"/>late not to the Son, but to the Father only;</hi> And yet you ſay,
+<hi>line 20. Theſe words,</hi> viz. <hi>eternal life are ſpoken of Jeſus Chriſt.</hi> Is not here an explicit contradiction? For if the words which you call an Epitome, &amp;c. relate in whole or in part to the Son Jeſus Chriſt, then not to the Father <hi>ONLY.</hi>
+            </p>
+            <p n="2">2. Conſider whether you have obſerved the rule
+<note n="a" place="margin">Deut. 4. 1. <hi>with</hi> 12. 32.</note> of not adding to the word, when you ſay, <hi>This Father,—and THIS Jeſus Chriſt is eternal life.</hi> I am ſure that terme <hi>THIS</hi> is but once mentioned in the text under de<g ref="char:EOLhyphen"/>bate, and that only in the beginning, not in the middle of the ſentence. Indeed
+<note n="b" place="margin">Quaerat hic aliquis annon liceat addere verbo dei Gloſſas ſive Declarationes. <hi>Reſp.</hi> licet; Dummodo illae ſint conſenta<g ref="char:EOLhyphen"/>neae verbo Dei ſcripto, &amp; genuinum Scripturae ſenſum, ex ipſa ſententiarum cohaerentia &amp; collatione Scripturae milium loco<g ref="char:EOLhyphen"/>rum aperiant. <hi>Piſc. in lec. Obſ.</hi> 2.</note>
+               <hi>Piſcator</hi> moves a queſtion, whether it be lawful to adde a Gloſſe or Expoſition to the Word written, and anſwers affirmatively with this Caution, <hi>That it be agreeable to the Word, and that it opens the genuine ſenſe of Scripture, &amp;c.</hi> Which whether it be obſerved by you, let the learned judge, when both Parties are heard fully. Your crude expreſſions could not be pretermit<g ref="char:EOLhyphen"/>ted without ſuch (rude yet) juſt Animadverſions.</p>
+            <p n="3">3. The reducing of this your anſwer into an argument, will be ſufficient to diſcover its vanity and weakneſſe, as you be ſpeak Maſter <hi>Eaton. p.</hi> 51.</p>
+            <p>
+               <hi>The Epitome, &amp;c. of this whole Epiſtle relates to the Fa<g ref="char:EOLhyphen"/>ther only.</hi> But theſe words: <hi>This is the true God and eternal life are ſuch an Epitome—Therefore—</hi>
+            </p>
+            <p>Sir, (not to repeat the forenamed contradictions) you (your ſelf being judge,) cannot but condemn the major of palpable falſhood, and if you would aſſay to prove it, (to uſe your own phraſe) would be an endleſſe labour. Your Minor is of the ſame ſtamp. For in all reaſon the laſt, <hi>verſ. 20. (Babes keep your ſelves from idols)</hi> ſhould be
+<pb n="3" facs="tcp:117818:5"/> a part of the Epitome, (if there be any ſuchthing) of the whole Epiſtle, ſpecially conſiſting of
+<hi>(Agenda</hi> as well as <hi>Credenda)</hi> Practical as well as Doctrinal matter.</p>
+            <p>But how prove you the Minor? <hi>Becauſe</hi> (ſay you)
+<hi>they are as an intire body of themſelves, not depending on the words immediately preceding.</hi> Is this all? Sir, your major implyed is falſe,
+<hi>(viz.)</hi> The words which are, <hi>As an intire body of themſelves</hi>—are the Epitome of this Epiſtle; For, are the words mentioned in the laſt verſe an Epitome of the whole Epiſtle? <hi>which yet are as an intire body of themſelves, &amp;c.</hi> and do they therefore relate to the Fa<g ref="char:EOLhyphen"/>ther only? But how prove you that theſe words under examination, are an intire body of themſelves, not ha<g ref="char:EOLhyphen"/>ving dependance on the words immediately foregoing? <hi>Its probable</hi> (you ſay) <hi>becauſe they are by a full point ſepa<g ref="char:EOLhyphen"/>rated from them.</hi>
+            </p>
+            <p>But Sir, muſt probabilities paſſe for proofs? and Cri<g ref="char:EOLhyphen"/>ticiſms for Syllogiſms? Among ſundry inſtances (even in this chapter, to go no further) I ſhall cull out one or two, which I fairly preſent to your ſerious con<g ref="char:EOLhyphen"/>ſideration. Its ſaid <hi>ver. 3.—
+<q>And his Commandments</q> are not grievous:</hi> Theſe words are by a full point ſepa<g ref="char:EOLhyphen"/>rated (in the Greek) from the words immediately pre<g ref="char:EOLhyphen"/>ceding, yet muſt needs have dependance on them, as evidently appears by the
+<note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Relative
+<hi>HIS.</hi> Again <hi>ver.</hi> 7. its ſaid—
+<q>
+                  <hi>And theſe three are one;</hi> Which words are ſo ſe<g ref="char:EOLhyphen"/>parated</q> (yet its as clear as the Sun, that) they depend on the words immediately foregoing, <hi>viz.</hi> The Father, the Word, and the Holy Ghoſt. Again tis ſaid,
+<q>
+                  <hi>v. 9.</hi>
+               </q>
+               <hi>—For this is the witneſſe of God.</hi>—Theſe words alſo are ſepa<g ref="char:EOLhyphen"/>rated by a full point, and yet they have dependance on the words immediately preceding, as is manifeſt by the Conjunction
+<note n="d" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>FOR,</hi> and the Relative <hi>THIS,</hi> yea in
+<pb n="4" facs="tcp:117818:6"/> this very <hi>ver. 20.—
+<q>And we are in him that is true, even</q> in his Sonne Jeſus Chriſt.</hi> Theſe words are alſo ſeparated by a full point; yet (if you adhere to <hi>Eraſmus</hi> or <hi>Tindals</hi> reading, and your own gloſſe thereupon) they muſt have dependance on the words immediately foregoing. You may (if you pleaſe) peruſe the chapter, and ſo be an eye-witneſſe of more inſtances; and you may more pro<g ref="char:EOLhyphen"/>bably conclude, that though theſe words are by a full point ſeparated from the words immediately prece<g ref="char:EOLhyphen"/>ding, yet they have a dependance on them. If all this will not leave a conviction on your ſpirit, may I not ſay with the Apoſtle in another caſe,
+<note n="e" place="margin">James 2. 4.</note> 
+               <hi>Are you not then partial in your ſelf?</hi>
+            </p>
+            <p>You have been unhappy in your firſt Anſwer; ſure you will be more ſucceſſeful in the ſecond, which runs thus.</p>
+            <p>2. Were it granted, that theſe words, <hi>(This is the true God, &amp;c.)</hi> do depend on the foregoing words: yet will it
+<note place="margin">Mr. Knowles Sect. 2.</note> not follow of neceſſity, that the Son, not the Father is the antecedent to the Relative
+<hi>THIS,</hi> and ſo that the ſentence muſt be thus underſtood,
+<hi>This Son is the true God.</hi> In the precedent words there is mention made of the Father, <hi>And we know that the Son of God is come,</hi> i.e. we beleevers aſſuredly know that the Son of God is already come in the fleſh, notwithſtanding many at this time gainſay and deny it; <hi>And hath given us an understanding that we may know him that is true,</hi> i.e. and this Jeſus Chriſt being in the boſome of the Father, and having received from him the promiſe of the Spirit; <hi>hath annointed the eyes of our minds that we might ſavingly know him,</hi> i.e. the true God, as ſome Greek Copies have it, <hi>And we are in him that is true &amp;c.</hi>—If with
+<hi>Eraſmus</hi> and <hi>Tindal</hi> we read the
+<pb n="5" facs="tcp:117818:6"/> words, thus, <hi>And we are in him that is true through his Son Ieſus Chriſt;</hi> the meaning is this, we have not only apprehenſion of, but alſo union and Commu<g ref="char:EOLhyphen"/>nion with him who is the true God, by the means of his Son Jeſus Chriſt; but if we follow
+<hi>Piſcator,</hi> the words hold out that <hi>Omnes,</hi> and fellowſhip which the Saints have with the Father and his Son Jeſus Chriſt; for thus he would have them read; <hi>And we are in him that is true;</hi> (to wit the Father) <hi>and in his Son Jeſus Chriſt.</hi> But laſt of all, if we conſent with <hi>Hie<g ref="char:EOLhyphen"/>rom,</hi> who by making a redundant, hath them thus;
+<note n="*" place="margin">Falſe; for he reads thus, <hi>And we are in his true Son.</hi>
+               </note> 
+               <hi>And we are in this true Son Jeſus Chriſt.</hi> Now the words that follow, relate to the Father, <hi>This is the true God,</hi> and the Apoſtle intends the Father.</p>
+            <p>Sir, me thinks I ſee you here like a bird in a net, hop<g ref="char:EOLhyphen"/>ping and fluttering to get out; but all in vain. For
+<note place="margin">Reply.</note>
+            </p>
+            <p n="1">1. If by the foregoing words, you mean immediately preceding (as in your firſt anſwer) it will and doth of <hi>NECESSITY</hi> follow, that the Son, not the Father, is the Antecedent to the Relative <hi>THIS.</hi> Weigh well the Ar<g ref="char:EOLhyphen"/>gument.</p>
+            <p>If the words <hi>(This is the true God)</hi> depend on the words immediately foregoing, then the Son and not the Fa<g ref="char:EOLhyphen"/>ther is the Antecedent to the Relative <hi>This.</hi> But theſe words <hi>(This is the true God)</hi> depend on the words im<g ref="char:EOLhyphen"/>mediately foregoing. Therefore—</p>
+            <p>The Major is undeniable, unleſſe a man will deny ſnow to be white. The Minor you ſeem to grant, and ſo yield the cauſe. If not, I pray you tell me which are the words immediately foregoing the Relative
+<hi>THIS?</hi> Are not theſe words, <hi>Jeſus Chriſt?</hi> Look on the Original, our Engliſh Tranſlation, or any of the three Verſions men<g ref="char:EOLhyphen"/>tioned by you, and its evident there is nothing but a full
+<pb n="6" facs="tcp:117818:7"/> point (as you ſay) between the words
+<hi>Ieſus Chriſt,</hi> and the Relative <hi>THIS.</hi>
+            </p>
+            <p n="2">2. I know not to what purpoſe you mention three ſe<g ref="char:EOLhyphen"/>veral readings, and three ſeveral meanings accordingly, unleſſe it be to caſt a miſt before your Readers eyes (as they ſay, the fiſh <hi>Polypus</hi> doth caſt out a black humour) thereby to eſcape; you fix not on any of theſe readings or meanings. Orthodox Divines maintain it for a truth againſt Papiſts,
+<note n="f" place="margin">Revera uni<g ref="char:EOLhyphen"/>cus duntaxat uniuscujuſque loci Sacrae Scripturae ſen<g ref="char:EOLhyphen"/>ſus eſt. <hi>Alsteds Praecog. Theol. l. 2. c.
+100. Vi<g ref="char:EOLhyphen"/>de Ameſ. Prole<g ref="char:EOLhyphen"/>gom. in Pſal. 2. &amp; Chamier. Panstrat. Cath. De Scripturae ſenſu l. 5. c. 1. &amp; 2 It. Rivet. Iſagog. ad Scripturam ſacram. c.</hi> 14.</note> There is but one ſenſe of Scripture. I know ſeveral men give ſeveral meanings of one and the ſame place of Scripture, and its difficult to determine which is the genuine; but this is to be impu<g ref="char:EOLhyphen"/>ted to the Reliques of darkneſſe in mans underſtanding, ſince the fall of
+<hi>Adam.</hi> The Scripture ſure is no Noſe of wax.</p>
+            <p>But to the Authority of <hi>Eraſmus</hi> and <hi>Tindal</hi> I oppoſe (with
+<note n="g" place="margin">Zanch. detri<g ref="char:EOLhyphen"/>bus clohim; pars altera. l.
+3. c. 6.</note> 
+               <hi>Zanchius)</hi> the Authority of all the Fathers almoſt, and of the Church of God, who read and underſtand the words as we do, For if that of <hi>Eraſmus</hi>—be cur<g ref="char:EOLhyphen"/>rant, it ſhould be
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>through,</hi> not
+<hi>in</hi> his Son;—To the Authority of <hi>Piſcator</hi> I oppoſe the Au<g ref="char:EOLhyphen"/>thority of <hi>Oecumenius,</hi> who hath collected the Fathers ſentences and ſenſe too on the text, making the latter clauſe exegetical to the former. Neither can you with reaſon conſent with
+<hi>Hierom</hi> (I ſuppoſe you mean the old Latine Tranſlation, which is doubted, nay denied by the learned
+<note n="h" place="margin">Rivet. Iſag. c. 11. Chamier. de vulg. Lat. e<g ref="char:EOLhyphen"/>ditione l. 24. c. 4. ſ. 7. &amp;c.</note> to be <hi>Hieroms)</hi> for if of two Prepoſitions one is redundant
+<note n="i" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>, then of two articles one is redundant alſo, (which is ſomewhat uncouth) and perhaps the Relative too, or elſe miſerably perverted, for its not <hi>in THIS</hi> Son, but in <hi>HIS</hi> Son.</p>
+            <p n="3">3. Its either an untrue or an improper expreſſion to ſay
+<pb n="7" facs="tcp:117818:7"/> in the precedent words there is mention made of the Fa<g ref="char:EOLhyphen"/>ther; for the word <hi>MENTION</hi> doth not ſignifie an im<g ref="char:EOLhyphen"/>plicit intimation, but an explicit nomination.
+<note n="k" place="margin">You ſay <hi>p.</hi> 10. no mention made of any o<g ref="char:EOLhyphen"/>ther nature in the man Chriſt. But I ſay its implyed in
+<hi>Iſa.</hi> 46. Re<g ref="char:EOLhyphen"/>view alſo your p. 15. Poſ. 1. &amp; p. 39.</note>
+               <hi>e. g. Heb. 11. 22. Joſeph</hi> made <hi>MENTION</hi> of the departing of the children of <hi>Iſrael,</hi>—what kind of mention that was, you may read, <hi>Gen.</hi> 50. 24, 25. Therefore elſewhere, the term <hi>BY NAME</hi> is added exegetically, <hi>Ioſh. 21. 9. 1 Chron.</hi> 4. 38. I grant the Father is implyed, (becauſe of the Relative—Son) but the Father is not mentioned (to ſpeak properly and truly) in the precedent words; but this by the <hi>By,</hi> let it go.</p>
+            <p n="4">4. Compare head and foot of this your anſwer, and I
+<note place="margin">Petitio Prin<g ref="char:EOLhyphen"/>cipii, idem per idem.</note> am much miſtaken if you do not ſhamefully beg the queſtion, and too confidently aſſert, the Apoſtle intends the Father. Sir, is not this (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) the thing con<g ref="char:EOLhyphen"/>troverted and to be proved?</p>
+            <p>But becauſe this aſſertion <hi>(the Apostle intends the Father on<g ref="char:EOLhyphen"/>ly)</hi>
+               <note place="margin">Mr. <hi>Knowles Sect.</hi> 3.</note> is contrary to many mens interpretation, take for the backing of it theſe few reaſons.</p>
+            <p>Sir, you might have ſaid <hi>EVERY</hi> mans interpretation
+<note place="margin">Reply.</note> ſaving old and new Oppoſers of Chriſts Deity. I hope you are not like <hi>Iſhmael,</hi>
+               <note n="l" place="margin">Gen. 16. 12.</note> whoſe hand will be againſt eve<g ref="char:EOLhyphen"/>ry man,—not like thoſe Jews mentioned, 1 <hi>Theſ.</hi>
+2. 14. 15. who were contrary to all men. There is a ſingu<g ref="char:EOLhyphen"/>larity which is a ſhrewd ſigne of Arrogancy. 2. If your Aſſertion be contrary to <hi>ALL, MOST</hi> or <hi>MANY</hi> mens in<g ref="char:EOLhyphen"/>terpretation, you have need not only of many but ſtrong reaſons, for the backing of it and flanking of it too. 3. No matter (I confeſſe) how few, but how ſtrong rea<g ref="char:EOLhyphen"/>ſons are. I would not take reaſons
+<note n="m" place="margin">Nonnumero ſed pondere.</note> by number, but by weight. Let it therefore appear what ſtrength or weight is in your reaſons, as you call them.</p>
+            <p>
+               <hi>Reaſ.</hi> 1. Becauſe the text will Grammatically bear it; for
+<note place="margin">Mr. <hi>Knowles Sect.</hi> 4.</note>
+               <pb n="8" facs="tcp:117818:8"/> the words may be thus rendred, <hi>That is the true God,</hi> and ſo the Antecedent to the Relative is not the perſon immediately foregoing, which is Ieſus Chriſt, but another ſpoken of at a further diſtance, to wit the Fa<g ref="char:EOLhyphen"/>ther.</p>
+            <p n="1">1. Sir your skil in Grammar is not ſo great as your
+<note place="margin">Reply.</note> skill in Logick ſeems to be.
+<hi>Calvin</hi> ſaith,
+<note n="n" place="margin">Relativum <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ad PROXI<g ref="char:EOLhyphen"/>MAM Perſo<g ref="char:EOLhyphen"/>nam reſtringi ſolet. <hi>Calv. loc.</hi>
+               </note> the Relative <hi>THIS</hi> is wont to be reſtrained to the next perſon,
+<hi>i.e.</hi> To the perſon immediately foregoing, which is Ieſus Chriſt, and not to another ſpoken of at a further diſtance, to wit the Father.
+<hi>Beza</hi> ſaith,
+<note n="o" place="margin">Pronominis iſtius propria ſignificatio po<g ref="char:EOLhyphen"/>ſtulat ut ad Chriſtum hoc referatur. <hi>Beza Annot. in loc.</hi>
+               </note> The proper ſignification of this Pronoun, requires that <hi>THIS</hi> be referred unto Chriſt, <hi>Zanchius</hi> ſaith,
+<note n="p" place="margin">Ad PROX<g ref="char:EOLhyphen"/>IMUM mem<g ref="char:EOLhyphen"/>brum referen<g ref="char:EOLhyphen"/>dum eſſe Pro<g ref="char:EOLhyphen"/>nomen <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Grammatica docet. <hi>Zanch. loc. praedict.</hi>
+               </note> 
+               <hi>GRAMMER</hi> teacheth, that the Pronoun <hi>THIS</hi> is to be referred to the next number. To name no more, I ſuppoſe theſe or any of theſe eminent Mi<g ref="char:EOLhyphen"/>niſters of the Goſpel were as good Grammarians as Maſter <hi>KNOWLES.</hi>
+            </p>
+            <p n="2">2. You alledge not one place of Scripture, wherein the Relative THIS is rendred THAT. If you could, you would not (I ſuppoſe) have left it ſo naked without armes in the open field. What? muſt we take again your word for proofe? I wiſh a better, for there is no goodneſſe in that. I hope Sir, you will take the language which you beſtow on Mr. <hi>Eaton, p.</hi> 51.</p>
+            <p n="3">3. Its more then probable, it ought not to be rendred THAT; for even in this Epiſtle, its an eleven times tranſlated THIS (beſide this text in hand) and ſo always to my beſt obſervation in the Goſpel of <hi>Iohn.</hi> Now if this be the proper ſignification of the Relative THIS, and ſo uſed conſtantly by the Apoſtle in his Goſpel and Epiſtle; ought it not to be ſo rendred here?</p>
+            <p n="4">4. Its ſaid <hi>Iohn 1. 20. This is he of whom I ſaid,</hi> &amp;c. Al<g ref="char:EOLhyphen"/>ſo 1 <hi>Iohn 5. 6. This is he that came by water and bloud.</hi>
+               <pb n="9" facs="tcp:117818:8"/> —Would it not be a ſilly ſhift to ſay the Apoſtle in<g ref="char:EOLhyphen"/>tends the Father, becauſe the text will Grammatically bear it? For may not the words be thus rendred? THAT IS, &amp;c.—when he that hath but half an eye may ſee, that not the Father, but Ieſus Chriſt is the Antece<g ref="char:EOLhyphen"/>dent to the Relative.</p>
+            <p n="5">5. You ſay the words MAY be thus rendred, <hi>THAT IS the true God.</hi> If you mean <hi>De poſſe,</hi> who denyes it? your ſubtil (but unſound) wit can do it and hath done it; If <hi>de jure,</hi> I deny it on the former grounds.</p>
+            <p n="6">6. What an abſurd illogical and Atheological argu<g ref="char:EOLhyphen"/>ment is this? If the words may be thus rendred—then the Apoſtle intends the Father. But the words may be thus rendred—Therefore—</p>
+            <p>Sir, you may perceive the weakneſſe of the Minor by weighing the Premiſes. Your Major or Conſequence I deny; for the tranſlation of the words can never ſuffici<g ref="char:EOLhyphen"/>ently prove the intention of the Apoſtle.</p>
+            <p>
+               <hi>Reaſ.</hi> 2. Becauſe Ieſus Chriſt nowhere in Scripture is
+<note place="margin">Mr. Knowles Sect. 5.</note> called the true God, and therefore is it the more que<g ref="char:EOLhyphen"/>ſtionable whether he be ſo called here; the place being ſomewhat doubtful and ambiguous.</p>
+            <p>Somewhat doubtful and ambiguous; to whom Sir?
+<note place="margin">Reply.</note> Not to <hi>Beda,</hi>
+               <note n="q" place="margin">Quid aper<g ref="char:EOLhyphen"/>tius hic verbis? quid dulcius?—Verum Deum dixerat eſſe filium, verum Deum HUNC eſſe multoties re<g ref="char:EOLhyphen"/>petit. <hi>Bed. loc.</hi>
+               </note> who ſaith, <hi>What is more plain then theſe words? what is more ſweet?</hi>—He <hi>(viz.</hi> the Apoſtle) cals the Son of God <hi>the true God,</hi>—he repeats it over and over again, <hi>This is the true God;</hi> nor to <hi>Calvin,</hi> who ſaith
+<note n="r" place="margin">Tamerſihunc locum eludere ARRIANI conati ſunt, &amp; illis hodie ſubſcribunt QuIDAM; Hîc tamen inſigne habe<g ref="char:EOLhyphen"/>mus Divinitatis Chriſti Elogium. <hi>Calv. loc.</hi>
+               </note> 
+               <hi>Although the Arrians have endeavoured to elude this place, and ſome at this day ſubſcribe to them, yet here we have a notable proof of Christs Divinity.</hi> Nor to <hi>Beza,</hi>
+               <note n="s" place="margin">Continet etiam hic locus EXPRES<g ref="char:EOLhyphen"/>SVM Divinitatis Chriſti teſtimonium, <hi>Beza. in loc. &amp; Piſcat.</hi>
+               </note> who ſaith, <hi>This place containeth an expreſſe teſtimony of Chriſts
+<pb n="10" facs="tcp:117818:9"/> Divinity.</hi> Nor to <hi>Zanchius,</hi> who ſaith,
+<note n="t" place="margin">Hic APER<g ref="char:EOLhyphen"/>TE Apoſtolus Chriſtum vo<g ref="char:EOLhyphen"/>cat verum De<g ref="char:EOLhyphen"/>um—Locus eſt inſignis ad aſſerendam Chriſti Divi<g ref="char:EOLhyphen"/>nitatem. <hi>Zanc. loc. Praedict.</hi> 1.</note> 
+               <hi>Here the Apoſtle clearly calleth Chriſt the true God.</hi>——A notable place to prove the true and eternal Deity of Ieſus Chriſt. But is the place doubtful and ambiguous to your ſelf? I do not beleeve it, becauſe of your mincing the matter, being SOMEWHAT doubtful—I cannot but think, in wri<g ref="char:EOLhyphen"/>ting this your heart check't your hand. The place is plain; he that runs may read it; The water is clear enough if the Elephant would not mud it. But your ſecond reaſon ſhall now be examined; Which is this; Ieſus Chriſt is no where in Scripture called the true God.</p>
+            <p>1. Sir, Many things are ſo and ſo, though not called ſo in Scripture; to ſay nothing of the Chriſtian Sabbath which is nowhere in Scripture called Sunday, is it no' therfore Sunday? or may it not be ſo called by us, as well as by <hi>Diodate,</hi> 1 Cor. 16. 2. and <hi>Iuſtin Martyr,</hi>
+               <note n="u" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c, SO<g ref="char:EOLhyphen"/>LIS DIE communiter omnes conven<g ref="char:EOLhyphen"/>tum agimus. <hi>Iuſt. Martyr. Apol.</hi> 2.</note> that moſt an<g ref="char:EOLhyphen"/>cient and incorrupt Writer, as learned <hi>Gomarus</hi>
+               <note n="w" place="margin">De inveſti<g ref="char:EOLhyphen"/>gatione Sab. <hi>c. 6. ſ.</hi> 39.</note> ſtiles him? But Baptiſme and the Lords Supper are nowhere in Scripture called Sacraments; are they not therefore Sacraments? 2. Nowhere in Scripture it is ſaid there are only two Sacraments of the New Teſtament; Are there any more? or therefore are there not only two Sa<g ref="char:EOLhyphen"/>craments of the new Teſtament? 3. The whole Church of Chriſt is nowhere in Scripture called Catholique; is there not therefore a Catholique Church? Though the terme is not, yet the thing is in Scripture, <hi>Eph.</hi> 3. 15, Of whom the whole Family in heaven and earth is na<g ref="char:EOLhyphen"/>med. 4. Chriſts death is nowhere in Scripture called ſatisfactory or meritorious; is it not therefore ſatisfacto<g ref="char:EOLhyphen"/>ry or meritorious? 5. A ſinners juſtification is no<g ref="char:EOLhyphen"/>where in Scripture called juſtification by faith only; is it not therefore by faith only? 6. Its obſerved to my hand by <hi>Camero,</hi>
+               <note n="x" place="margin">Certè nuſ<g ref="char:EOLhyphen"/>quam legas, vera fides, vera ſpes, vera cha<g ref="char:EOLhyphen"/>ritas. <hi>Cam. Reſp. ad epiſt. viri do<g ref="char:EOLhyphen"/>cti. c. 19. p.</hi> 777.</note> that nowhere in Scripture is a Chriſtians
+<pb n="11" facs="tcp:117818:9"/> faith called true faith, his hope a true hope, his charity true charity; is therefore his faith not a true faith, his hope and charity not true?</p>
+            <p>2. Are you ſuch a great ſtranger in <hi>Iſrael,</hi> that you know not that received and undoubted maxime? There are ſundry things but once mentioned in Scripture; were it granted that Jeſus Chriſt is no where elſe in Scripture called the true God, its enough if he be ſo called here,
+<note n="y" place="margin">Pronomine illo <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſigni<g ref="char:EOLhyphen"/>ficatum fuiſſe</note> as moſt certainly he is. This one text (if there be no more) is a ſufficient foundation for a Saint to bottome his faith upon. The Chriſtian Sabbath is but once in the New Teſtament called the Lords day, <hi>Revel.</hi> 1. 10.
+<note place="margin">a Johanne Chriſtum ip<g ref="char:EOLhyphen"/>ſum CERTO CERTIVS eſt. <hi>Zanch. ib.</hi>
+               </note> 
+               <hi>I was in the Spirit on the Lords day.</hi> Is it not therefore the Lords day? I confeſſe indeed
+<hi>Beza</hi> ſaith in his Annota<g ref="char:EOLhyphen"/>tions on 1 <hi>Cor.</hi> 16. 2. upon the firſt day of the week he found in an ancient copy added <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, being the Lords day; to wit, on the firſt day of the week, being the Lords day, but we find it not ſo in our books in the forenamed place of the Corinthians. Again, Church<g ref="char:EOLhyphen"/>officers are but once in the New Teſtament called The Church, <hi>Mat. 18. 17. Tell the Church.</hi> Are they not therefore the Church? but becauſe thoſe inſtances are liable to exceptions, and men of parts and Piety differ in their opinion and expoſition; I ſhall wave them, and give you ſome few pregnant and pertinent inſtances a<g ref="char:EOLhyphen"/>mong many. <hi>e. g.</hi> The Latteſſe in <hi>Cant, 2. 9. (ſhewing himſelf through the Latteſſe)</hi> is nowhere elſe uſed in the Hebrew, if Mr.
+<hi>Ainſworth</hi> may be beleeved. Nor that caſting down (of the lapſed Angels) to hell or hel-ward, 2 <hi>Pet.</hi> 2. 4. is no where elſe uſed, if Mr. <hi>Mede</hi>
+               <note n="z" place="margin">The word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in S.
+<hi>Peter</hi> is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Vide loſ-Medes works, 4<hi rend="sup">o</hi>. p.</hi> 101. 102.</note> may be beleeved; and I ammuch deceived if that word
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in 1 <hi>Tim. 2. 12.—(Nor to uſurp authority over the man)</hi> be any where elſe in Scripture uſed; Are theſe things
+<pb n="12" facs="tcp:117818:10"/> therefore any whit the more queſtionable? Secondly, Though
+<note n="a" place="margin">
+                  <hi>Ameſ.</hi> expli<g ref="char:EOLhyphen"/>catio Analyti<g ref="char:EOLhyphen"/>ca in
+1 Pet. 2. 13</note> Superiority of Power &amp; Civil Government it ſelf be ſimply and abſolutely commanded by God, and therefore called an Ordinance of God, <hi>Rom.</hi> 15. 1, 2. yet this or that forme of Government, or ſpecial man<g ref="char:EOLhyphen"/>ner of Power, is not determined by God, but by men; therefore called in 1 <hi>Pet.</hi> 2. 13. an ordinance of man, or as it might be rendred,
+<note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. So the Vulg. and
+<hi>Eraſm.</hi>
+               </note> an humane creature or cre<g ref="char:EOLhyphen"/>ation, a phraſe uſed nowhere elſe; is it therefore the more queſtionable, whether a Magiſtrate or Magi<g ref="char:EOLhyphen"/>ſtracy be an Ordinance of man? 3. The Church com<g ref="char:EOLhyphen"/>pact of Jews and Gentiles, is but once called one new man, <hi>Eph. 2. 15.—to make in himſelf of twain one new man;</hi> is it therefore the more queſtionable? Fourthly, To put all out of doubt, (becauſe the matter in agitation is about Chriſt) Chriſt himſelf is but once ſaid to be in the forme of God,
+<hi>Phil. 2. 6. The expreſſe image of his Perſon,</hi> Heb. 1. 3. (or as the words may be read) The Character of his ſubſtance: <hi>The beginning of the Creation of God,</hi> Rev. 3. 14. <hi>The firſt-born of every creature,</hi> Col. 1. 15. <hi>The true bread,</hi> John 6. 32. <hi>The true vine,</hi> cap. 15. 1. Is it therefore any whit the more que<g ref="char:EOLhyphen"/>ſtionable whether Ieſus Chriſt may be ſo called? I trow not.</p>
+            <p>3. Admit (for Argument ſake) that Ieſus Chriſt is no where elſe in Scripture called the true God: yet (by your leave) he is called God,
+<hi>John 1. 1. Bleſſed God,</hi> Rom. 9. 5. <hi>Great God,</hi> Tit. 2. 13.
+<hi>The mighty God,</hi> Iſa. 9. 6. &amp;c. All which (and many more Titles aſcribed to him in holy Scripture) amount to this, <hi>The true God,</hi> notwithſtand<g ref="char:EOLhyphen"/>ing your exceptions againſt the forenamed places, which like Fig-leaves (if I be not prevented by a better pen) ſhall be removed, and your nakedneſſe diſcovered. Ie<g ref="char:EOLhyphen"/>ſus
+<pb n="13" facs="tcp:117818:10"/> Chriſt is no where called in Scripture Gods Miniſter, Gods Inſtrument, Gods Viceroy, Gods Reprſeentative, &amp;c. yet you beleeve Scripture holds forth that which a<g ref="char:EOLhyphen"/>mounts thereto; elſe you would not ſo frequently call Chriſt by ſuch names, and will you be a Didymiſt here? But to uſe a better inſtance, The Scripture ſaith we are juſtified without works, we are juſtified by faith, doth not all amount to this, we are juſtified by faith on<g ref="char:EOLhyphen"/>ly? So here—</p>
+            <p>4. What will you ſay if Ieſus Chriſt be elſewhere in Scripture called the true God? I humbly conceive ſo, <hi>Jer. 10. 10. But the Lord is the true God.</hi> I am not igno<g ref="char:EOLhyphen"/>rant it is in the Original <hi>Aelohim Aemeth, the God of truth.</hi> But it is an uſual Hebraiſme, as in the ſame verſe, <hi>A King of eternity,</hi> i.e. an eternal King, and ſo (to name no more) 2 <hi>Cor.</hi> 1. 3.—<note n="e" place="margin">Genitivus pro Adjectivo—<hi>i.e.</hi> Pater ſumme miſeri<g ref="char:EOLhyphen"/>cors.
+<hi>Grot.</hi>
+               </note> 
+               <hi>The father of mercies,</hi> i.e. A mer<g ref="char:EOLhyphen"/>ciful father. Now that Ieſus Chriſt is here implyed, and to be underſtood, take for the clearing and confirming of it theſe few reaſons.</p>
+            <p n="1">1. Becauſe theſe words in the beginning of the ſe<g ref="char:EOLhyphen"/>venth verſe <hi>(Who would not feare thee O King of Nations!)</hi> ſpoken and applyed to Chriſt,
+<note n="f" place="margin">Praebet hic Titulus <hi>NON OBSCVRVM</hi> Divinitatis Agni argu<g ref="char:EOLhyphen"/>mentum, cui tanquam Au<g ref="char:EOLhyphen"/>thori opus il<g ref="char:EOLhyphen"/>lud ſtupendum devictae beſtiae acceptum fe<g ref="char:EOLhyphen"/>runt, &amp; praedi<g ref="char:EOLhyphen"/>cant ſancti. <hi>Pareus in loc.</hi>
+               </note> 
+               <hi>Rev.</hi> 15. 3, 4. Thus our Tranſlators of the Bible into Engliſh underſtood it, as appears by the interchangable quotation. And this is more probable, becauſe <hi>Beza</hi> ſaith <hi>Arethas</hi> reads the words in <hi>Revel.</hi> forenamed—<note n="g" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>King of Nations,</hi> i.e. Of all the Saints of, in, or among the Na<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="2">2. Becauſe the work of Creation, mentioned <hi>ver. 12. which is proper to the moſt High,</hi> Pſal. 104. 25, 26. is aſcribed to Chriſt, <hi>Heb.</hi> 1. 10, 11, 12. your diſtinction, <hi>p.</hi> 35. of an Agent principal and inſtrumental, in the work of Creation, and your bold aſſertion thereupon,
+<pb n="14" facs="tcp:117818:11"/> that Ieſus Chriſt was only an inſtrumental Agent in the Creation of the world (which ſhall be examined in its proper place,) will not help you a jot at this dead lift.</p>
+            <p n="3">3. Becauſe of the name of this true God, <hi>verſ. 16. The Lord of Hoſts is his name,</hi>
+               <note n="h" place="margin">You acknow<g ref="char:EOLhyphen"/>ledge p. 10. This noble name is by the A<g ref="char:EOLhyphen"/>poſtle from <hi>Iſay</hi> 6. 3. tran<g ref="char:EOLhyphen"/>ſlated Lord Almighty,
+<hi>Rev.</hi> 4. 8. And given to him that ſits on the Throne.</note> Which name is given to Jeſus Chriſt, if you will compare, <hi>Iſa.</hi> 6. 10. with <hi>John</hi> 12. 41.
+<q>
+                  <hi>Theſe things ſaid</hi> Iſaias, <hi>when he ſaw his glo<g ref="char:EOLhyphen"/>ry and ſpake of HIM.</hi>
+               </q> The relative refers to Chriſt in the precedent <hi>verſ.</hi> 37.
+<q>
+                  <hi>Though HE had done ſo many miracles before them, yet they beleeved not on HIM.</hi>
+               </q> Who is he? The Lord Jeſus, <hi>verſ. 36. Theſe things ſpake Ie<g ref="char:EOLhyphen"/>ſus,</hi>—And it refers to Chriſt in the ſubſequent, <hi>verſ. 42.—Many beleeved on HIM,—but they did not con<g ref="char:EOLhyphen"/>feſſe HIM.</hi> If the context carry it to Chriſt, therefore of neceſſity here, <hi>verſ.</hi> 41. So that (I hope) it is evident that Jeſus Chriſt is elſewhere in Scripture called The true God; and that your ſecond reaſon is very frail and falſe.
+<note place="margin">Mr. <hi>Knowles Sect.</hi> 6.</note>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 3. Becauſe the father is called the true God di<g ref="char:EOLhyphen"/>ſtinct from the Son, 1 <hi>Theſſ. 1. 9, 10.—How ye tur<g ref="char:EOLhyphen"/>ned to God from idols to ſerve the living and true God, and to wait for his Son from heaven, whom he raiſed from the dead, even Jeſus, &amp;c.</hi>—It is evident from this text, that the Father diſtinct from the Son is called the li<g ref="char:EOLhyphen"/>ving and true God; and therefore it is probable in the text under examination, the Father only is intended in this expreſſion, <hi>This is the true God.</hi>
+            </p>
+            <p>Give me leave to truſſe up this reaſon into an Argu<g ref="char:EOLhyphen"/>ment
+<note place="margin">Reply.</note> without wronging you; if in the 1
+<hi>Theſ.</hi> 1. 9, 10. the Father diſtinct from the Son is called the true God, then alſo its probable in 1 <hi>Iohn</hi> 5. 20. But the former is true. Therefore—</p>
+            <p>Or thus. He that is diſtinct from the true God, is not
+<pb n="15" facs="tcp:117818:11"/> the true God; Ieſus Chriſt is diſtinct from the true God; Therefore—</p>
+            <p>Sir, if you take to the firſt Syllogiſtical forme, I deny your conſequence; for the Father even diſtinct from the
+<note place="margin">A mea non ſe<g ref="char:EOLhyphen"/>quit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</note> Son, may be called the true God in 1
+<hi>Theſ.</hi> 1. 9, 10. and yet the Son—may be called the true God in
+1 <hi>Iohn</hi> 5. 20. you your ſelf foreſaw the inconſequence, and therefore you aſſert it but as probable; and probabilities (I imagine) will not carry it.</p>
+            <p>If you own the latter Argument, The major is falſe; for the Spirit as well as Chriſt is diſtinct from the true God (in ſome ſenſe) and yet is the true God,
+<note n="i" place="margin">Certè S Sp. ita in Deo, ex Deo, &amp; Dei eſt, ut Deus ſit, viz. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Synopſ. par. Theol. Diſp. 9. ſ.</hi> 28.</note> 
+               <hi>Acts 5. 3, 4. Iſa. 6. 9. with Acts
+28. 25. 1 Cor. 6. 19. with 1 Cor.</hi> 6. 16. May not I as well argue out of
+<hi>Mark 16. 7. Tell his diſciples and</hi> Peter, that <hi>Peter</hi> was none of Chriſts diſci<g ref="char:EOLhyphen"/>ples, becauſe he is diſtinct from them; and out of the title of <hi>Pſal. 18.—from the hand of all his enemies, and from the hand of</hi> Saul, that <hi>Saul</hi> was none of <hi>Davids</hi> enemies; for he is diſtinct from them. But as he appeal<g ref="char:EOLhyphen"/>ed from
+<hi>Philip</hi> to <hi>Philip,</hi> ſo do I from Mr. <hi>Knowls</hi> to Mr.
+<hi>Knowls,</hi> who ſeems to anſwer with indignation. <hi>pag. 39. What?</hi> Was <hi>Saul</hi> none of <hi>Davids</hi> enemies? He was;—But why do I go ſo far? will you conclude waiting is no ſerving, becauſe its evident from this text, 1 <hi>Theſ.</hi> 1. 9, 10. That waiting is diſtinguiſhed from ſerving—to ſerve and to wait—</p>
+            <p>
+               <hi>Reaſ.</hi> 4. Bcauſe the Father is called the ONLY true
+<note place="margin">Mr. <hi>Knowles Sect.</hi> 7.</note> God,
+<hi>Iohn 17. 3. And this is life eternal, that they might know thee the only true God, and whom thou haſt ſent, Je<g ref="char:EOLhyphen"/>ſus Chriſt.</hi> Here the Father is called the only true God, and ſo the Son is excluded from being the true God, and therefore of neceſſity in 1 <hi>Iohn</hi> 5. 20. The Father only is intended.
+<note place="margin">Reply.</note>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:117818:12"/> Your Argument (I take it) runs thus. If the Father be called the only true God in <hi>Iohn</hi> 17. 3. Then of neceſ<g ref="char:EOLhyphen"/>ſity in 1 <hi>John</hi> 5. 20. But the former is true. Therefore.—or thus, The Sonne is excluded from being true God, in
+<hi>Ioh.</hi> 17. 3. Therfore of neceſſity in 1 <hi>Ioh.</hi> 5. 20.</p>
+            <p>Sir, your former inference muſt be probable, this laſt neceſſary, if you muſt be beleeved; but in truth there is no probability in the former, much leſſe neceſſity in this. For,</p>
+            <p n="1">1. If from this place you are ſo bold as to argue Je<g ref="char:EOLhyphen"/>ſus Chriſt out of his Deity; I imagine, you will make no bones to argue
+<note n="k" place="margin">Divers paſſa<g ref="char:EOLhyphen"/>ges in your book hint as much as <hi>page</hi> 22. 27, 34. &amp;c.</note> the Holy Ghoſt alſo out of his Deity. Your Argument doth militate as ſtrongly (in ſhew) a<g ref="char:EOLhyphen"/>gainſt the one, as againſt the other; and then <hi>quo vadis?</hi> whither are you going?</p>
+            <p n="2">2. This word ONLY is not always an
+<note n="*" place="margin">So <hi>Chryſoſt.</hi> citing 1
+<hi>Cor.</hi> 9. 6 where the par<g ref="char:EOLhyphen"/>ticle <hi>ONLY</hi> doth not ex<g ref="char:EOLhyphen"/>clude but com<g ref="char:EOLhyphen"/>mend <hi>Barna<g ref="char:EOLhyphen"/>ba<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> excluſive particle, as may appear, 1. By your own allegations. For you, <hi>p. 11. line</hi> 10. The words, 1 <hi>Iohn 5. 20. This is the true God and eternal life,</hi> relate to the Father only, and yet you do not exclude the Son, <hi>line</hi> 19. 20. of the ſame page; you ſay
+<hi>pag. 18. Iſaac</hi> is called <hi>Abrahams</hi> only be<g ref="char:EOLhyphen"/>gotten Son, yet you exclude not <hi>Iſhmael</hi> by <hi>Hagar,</hi> and others he had by
+<hi>Keturah,</hi> though <hi>I</hi> grant he was <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> only begotten Son by promiſe. Again, you in <hi>pag.</hi> 46. quote <hi>Mat. 4.
+10. Him only ſhalt thou ſerve.</hi> Though God only is to be worſhipped and ſerved, yet it ſeems to me you do not exclude Chriſt. If you do, is it not contra<g ref="char:EOLhyphen"/>ry to <hi>Joh. 5. 23? That all men ſhould honour the Son EVEN as they honour the Father.</hi> If you do not, then (your ſelf being Iudge) the term <hi>Only</hi> is not always excluſive. But ſecond<g ref="char:EOLhyphen"/>ly it will appear by other inſtances, <hi>Iob. 9. 8. Which alone ſpreadeth out the heavens,</hi>—Although you underſtand it ſpoken of God the Father, yet can you not exclude the
+<pb n="17" facs="tcp:117818:12"/> Son; for thoſe words, <hi>Heb. 1. 10. (And the heavens are the works of thy hands)</hi> are ſpoken to Chriſt, as appears by your conjunction. And—in the beginning of your tenth page compared with <hi>pag,</hi> 8. Again
+<note n="l" place="margin">Zanc. l. 3. c. 10 p. 484.</note>
+               <hi>Peter</hi> ſaith of Chriſt, <hi>Acts 4. 12. Neither is there ſalvation in any other, there is none other name under heaven given among men, wher<g ref="char:EOLhyphen"/>by we muſt be ſaved,</hi> will you exclude the Father from ſa<g ref="char:EOLhyphen"/>vingus? no. <hi>Tit. 3. ver.</hi> 4, 5, 6.—yea, will you ex<g ref="char:EOLhyphen"/>clude Jeſus Chriſt, (I ſay not your ſelf emitting ſuch Arguments and Anſwers againſt the Deity of Ieſus Chriſt) from being wiſe? becauſe its ſaid, <hi>Rom.</hi> 16. 27.—<note n="m" place="margin">Thus <hi>Greg. Nazianz.</hi> argued long ſince. Si ſoli ſapienti Deo, aut ſoli haben<g ref="char:EOLhyphen"/>ti immortali<g ref="char:EOLhyphen"/>tatem, lucem inacceſſam ha<g ref="char:EOLhyphen"/>bitanti—ſic intelligas, non abibit, quin ad mortem con<g ref="char:EOLhyphen"/>demnatus fili<g ref="char:EOLhyphen"/>us, aut tenebrae aut
+<hi>NON SA<g ref="char:EOLhyphen"/>PIENS</hi> ſit—de Theologia. <hi>l. 4. p 265. Edit. Lat-Muſcul.—</hi>
+               </note> 
+               <hi>to God only wiſe?</hi>—when yet you acknow<g ref="char:EOLhyphen"/>ledge <hi>page</hi> 26. according to the Scripture of truth,
+<hi>Col. 2. 3. In him are hid all treaſures of Wiſedome and Knowledge,</hi> yea, and he is expreſſely called the Wiſedome of God, 1 <hi>Cor.</hi> 1.
+24. To ſay nothing of your not daring (I be<g ref="char:EOLhyphen"/>leeve) to exclude Ieſus Chriſt from having immortality, when <hi>Paul</hi> ſaith of the Father, 1
+<hi>Tim. 6. 16. Who ONLY hath immortality.</hi> To conclude, will you exclude
+<hi>Sarah</hi> from being called of God, becauſe its ſaid <hi>Iſa. 51. 2. I called</hi> Abraham <hi>alone?</hi> No, <hi>Piſcator</hi>
+               <note n="n" place="margin">Vxorem ha<g ref="char:EOLhyphen"/>bebat cùm vo<g ref="char:EOLhyphen"/>caretur.
+<hi>Piſc. in loc.</hi>
+               </note> can tell you he had a wife when he was called, and the ſtory confirms it. If it be ſaid <hi>Abraham</hi> might be called alone, though <hi>Sarah</hi> named in the ſame verſe were called in him, ſhe being one with him; So the Father may be called here the only true God, though Ieſus Chriſt is not to be excluded, he being one with him in nature and eſſence, not in work on<g ref="char:EOLhyphen"/>ly, as you ſay, <hi>Iohn</hi> 10. 30. which hereafter (God willing) ſhall be demonſtrated.</p>
+            <p n="3">3. What if the words may be read thus?—<hi>To know thee, and Ieſus Chriſt whom thou haſt ſent, the only true God.</hi> Thus the Son is not excluded from being the true God, but included (or rather expreſſed) to be the true God.
+<pb n="18" facs="tcp:117818:13"/> Such trajections are very frequent in Scripture. To in<g ref="char:EOLhyphen"/>ſtance only in the Scripture quoted by you in your ſe<g ref="char:EOLhyphen"/>cond reaſon, <hi>1 Theſ. 1. 10.—And to wait for his Son from heaven, even Ieſus whom he raiſed from the dead.</hi> Your learned man <hi>Grotius</hi>
+               <note n="o" place="margin">Ethic tranſ<g ref="char:EOLhyphen"/>poſitio, pro
+<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ut Act. 6 10.</note> expreſſely aſſerts a tranſpoſition here, reading the words thus,—<hi>And to wait for his Son,—even Ieſus whom he raiſed from the dead.</hi> And that it is ſo here in the text under debate. <hi>Dan. Heinſius</hi>
+               <note n="p" place="margin">Hic ſi Chry<g ref="char:EOLhyphen"/>ſoſtomo credi<g ref="char:EOLhyphen"/>mus, hoc vole<g ref="char:EOLhyphen"/>bat Dominus <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Heinſ. in loc.</hi>
+               </note> (a Critical man, and therefore more likely to take with your Critical wit) confirms it out of ſundry Greek Au<g ref="char:EOLhyphen"/>thors, alledging that
+<hi>Chryſoſtome</hi> ſo reads them, as the mind of Ieſus Chriſt, and concludes: <hi>This therefore is the true ſenſe, that they may know thee, and Ieſus Chriſt whom thou haſt ſent, the only true God.</hi> This is no new interpre<g ref="char:EOLhyphen"/>tation, (and if it were new, no matter if it be right) It is very ancient. Beſide <hi>Chryſoſtome</hi> aforementioned,
+<hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> ſaith,
+<note n="q" place="margin">Ordo verbo<g ref="char:EOLhyphen"/>rum eſt, ut te &amp; quem miſiſti Jeſum Chriſtu<g ref="char:cmbAbbrStroke">̄</g> cognoſcant ve<g ref="char:EOLhyphen"/>rum Deum. <hi>Aug. Tract. 105. in Joh.</hi>
+               </note> 
+               <hi>This is the order of the words, that they may know thee, and Ieſus Chriſt whom thou haſt ſent, the only true God.</hi> And
+<note n="r" place="margin">Quod qui<g ref="char:EOLhyphen"/>dem Arriani ſic ſolent accipere quaſi non ſit Filius verus Deus——an<g ref="char:EOLhyphen"/>ſwers; ordo ver<g ref="char:EOLhyphen"/>borum. eſt, &amp;c. <hi>de Trin. l.</hi> 6. c. 9.</note> elſewhere telling us that the Arrians were ſo wont to take this place, as if the Son were not God, uſeth the ſame expreſſion, <hi>This is the order of the words, &amp;c. Ambroſe</hi> alſo ſaith,
+<note n="s" place="margin">Chriſtum non EXCLVDE<g ref="char:EOLhyphen"/>RE ſe, quin verus ſit Deus, ex hoc ipſo lo<g ref="char:EOLhyphen"/>co perſpicuum eſt; illu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enim in cujus cog<g ref="char:EOLhyphen"/>nitione, vita ae<g ref="char:EOLhyphen"/>terna poſitaſit, quî poſſit non eſſe Deum? <hi>Ambr. de ſide l.
+5. c.</hi> 2.</note> 
+               <hi>Its evident from this place, that Chriſt doth not EXCLUDE himſelf from being the true God, becauſe life lies in knowing HIM.</hi> I ſhall conclude with <hi>Tertullian</hi> who argues from this text otherwiſe then you do. <hi>If Chriſt would not have himſelf to be underſtood the true God alſo, why did he adde [and whom thon haſt ſent Ieſus Chriſt] Elſe he had ſaid [And whom thou haſt ſent, the MAN Ieſus Chriſt—] But ſince he hath joyned himſelf with God, he BY THIS CONIUNCTION, would be under<g ref="char:EOLhyphen"/>ſtood, as indeed he is, THE TRUE GOD.</hi>
+            </p>
+            <p n="4">4. But take the words as they lie in our Engliſh tran<g ref="char:EOLhyphen"/>ſlation, <hi>Yet it will not of NECESSITY follow, that Chriſt is
+<pb n="19" facs="tcp:117818:13"/> excluded from being the true God. For the Father is not oppoſed to the Son, but to idols and falſe Gods: And then the ſenſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeems to be this: Life eternal conſiſts in this, that leaving the multitude of falſe Gods, we might know even Ieſus Chriſt, not a falſe god, as idols are, hut the true God alſo as the father is.</hi> Thus many ancient Writers underſtood it,
+<note n="t" place="margin">Sane mea eſt opinio, illud, cognoſcant te ſolum verum Deum, ad eos, qui cùm Dii di<g ref="char:EOLhyphen"/>cantur, tamen non ſunt, tol<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndos valere. Alioquin, ſi Chriſto ex ad<g ref="char:EOLhyphen"/>verſo reſpon<g ref="char:EOLhyphen"/>derit—adje<g ref="char:EOLhyphen"/>ctum non eſſet &amp; quem miſi<g ref="char:EOLhyphen"/>ſti Jeſum Chri<g ref="char:EOLhyphen"/>ſtum. <hi>Greg. Naz. ibid.</hi>
+               </note> 
+               <hi>My opinion</hi> (ſaith <hi>Nazian.) is, That thoſe words, the only true God, Take away thoſe who are called gods but indeed are not, NOT Ieſus Chriſt, for then it had not been added,—and whom thou haſt ſent Ieſus Chriſt.</hi> To the ſame purpoſe <hi>Baſil</hi>
+               <note n="u" place="margin">Qui verus eſt Deus, ad eos, qui ex oppoſito falſo diſtingun<g ref="char:EOLhyphen"/>tur, dicitur, ſc<g ref="char:EOLhyphen"/>non exiſtentes. <hi>Baſ. contra Eu<g ref="char:EOLhyphen"/>nom. l 4. p.</hi> 177.</note> the Great, and <hi>Cyril</hi>
+               <note n="w" place="margin">Patrem à falſis &amp; ſolo nomine Diis diſtinguens, ſo<g ref="char:EOLhyphen"/>lum verumque Deum appel<g ref="char:EOLhyphen"/>lat. <hi>Cyril. in loc. l. 11. c. 16. &amp; in Theſauro. l. 10. c.</hi> 6.</note>
+               <hi>A<g ref="char:EOLhyphen"/>lexander,</hi> and others (whom I could name) deliver them<g ref="char:EOLhyphen"/>ſelves. But becauſe you profeſſe you like Reaſon and Scripture beſt, I will deal with you that way. That this is ſpoken in oppoſition to, and excluſion of ſalſe gods, its more then probable by the conſtant language of the Scriptures elſewhere. <hi>e. g. Ier. 10. 10. But the Lord is the true God</hi>—compared with <hi>v.</hi> 8, 9, 11, 14, 15, 16. Where
+<hi>Iehovah</hi> the true and living God is abundantly oppoſed to falſe gods; and is it not evident in the text foremen<g ref="char:EOLhyphen"/>tioned? 1 <hi>Theſſ. 1.
+9.—How ye turned from idols—to ſerve—THE TRUE GOD.</hi> Nay, is it not clear in the text under Examination? 1 <hi>Iohn</hi> 5. 20.
+<q>That we may know him that is TRUE, and we are in him that is TRUE. This is the TRUE God.</q> Now it follows im<g ref="char:EOLhyphen"/>mediatly, <hi>ver.
+21.—Keep your ſelves from IDOLS.</hi> Is not the true God in all theſe places oppoſed to idols?</p>
+            <p>To wind up all, this particle <hi>ONLY,</hi> is not to be
+<note n="x" place="margin">Particula ex<g ref="char:EOLhyphen"/>cluſiva <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> non conjungi<g ref="char:EOLhyphen"/>tur cum ſubje<g ref="char:EOLhyphen"/>cto TE, ſed cu<g ref="char:cmbAbbrStroke">̄</g> praedicato VE<g ref="char:EOLhyphen"/>RUM Deum. <hi>Sancti. de trib. Elohim. pars al<g ref="char:EOLhyphen"/>tra. l. 3. c. 10. p.</hi>
+483.</note> joyned with the ſubject THEE, but with the Predicate GOD, as is apparent by the other epithet TRUE, which be<g ref="char:EOLhyphen"/>longs to the Predicate GOD, and not to the ſubject THEE. Its one thing to ſay—that they might know THEE ONLY the true God, and another thing to ſay—that they might know thee the ONLY true God. This
+<pb n="20" facs="tcp:117818:14"/> Anſwer hath cut in ſunder the ſinews of the Arrians Ar<g ref="char:EOLhyphen"/>gument heretofore out of this place,
+<note n="y" place="margin">Maldonat. in loc.</note> and is as keen now (through Gods bleſſing) for ought I know. Suppoſe one ſhould argue thus; The Sun is the only true light in the day time to inlighten our Hemiſphere, therfore the beams of the Sun are not, who ſees not the fallacy &amp; falſhood of this conſequence? Doth it not rather follow, that the beams with the Sun are the only true light. So it is here (only let not the compariſon be ſtretched beyond my intention) This text rather holds him forth to be the true God then excludes him (as you harſhly ſpeak) from being the true God. Now (the premiſes being conſidered) it will not (I think) of <hi>NECESSITY</hi> follow that in 1 <hi>Joh.</hi> 5. 20. The Father is <hi>ONLY</hi> intended.</p>
+            <p>Sir, having (I hope) taken off the edge of your rea<g ref="char:EOLhyphen"/>ſons, (whereby you indeavoured to prove, that the
+<note place="margin">Sect. 8.</note> words under examination relate not to the Son but to the Father only) Give me leave on the contrary to tender to you ſome reaſons, why the words—relate not to the Father, but to the Son.</p>
+            <p n="1">1. Becauſe the
+<note n="z" place="margin">Incipit pri<g ref="char:EOLhyphen"/>mùm omni<g ref="char:EOLhyphen"/>um à Chriſti Perſonae de<g ref="char:EOLhyphen"/>ſcriptione—Hujus igitur primum omni<g ref="char:EOLhyphen"/>um Deitatem aeternam pro<g ref="char:EOLhyphen"/>ponit. <hi>Beza.</hi>
+               </note> beginning of <hi>Iohns</hi> Epiſtle, holds forth the ſubject of his preaching &amp; writing,
+<hi>viz.</hi> the per<g ref="char:EOLhyphen"/>ſon—<note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>—</note> of Jeſus Chriſt, <hi>ch.</hi> 1. 1.—of (or concerning) the Word of life. Now its more then probable, that the End or Concluſion of the Epiſtle, is ſuitable to the Pre<g ref="char:EOLhyphen"/>face or beginning. This reaſon may be cogent, (if not to others, yet) to Mr. <hi>Knowls,</hi> who is carried with meer probabilities for the moſt part.</p>
+            <p n="2">2. Becauſe there is no great neceſſity rationally ima<g ref="char:EOLhyphen"/>ginable, that ſhould move or conſtrain the Apoſtle ſo ſtrenuouſly and induſtriouſly to aſſert, the Deity of the Father. For what man (within the pale of the Chriſtian Church) did deny or doubt of it? But there might be juſt
+<pb n="21" facs="tcp:117818:14"/> and neceſſary cauſe of aſſerting the Deity of Ieſus Chriſt. You ſay
+<note n="b" place="margin">Pag 11.</note> many at this time did ariſe, who did gain-ſay and deny the coming of the Son of God in the fleſh. So (ſay I) many at this time
+<note n="c" place="margin">Ebion &amp; Ce<g ref="char:EOLhyphen"/>rinthus ſolum hominem cen<g ref="char:EOLhyphen"/>ſuerunt Chri<g ref="char:EOLhyphen"/>ſtum. <hi>Euſeb. Eccl. Hiſt. l. 3. c. 21, 22. &amp; Epiphan. Hae<g ref="char:EOLhyphen"/>reſ. 51. &amp; Au<g ref="char:EOLhyphen"/>guſt. de Hareſ. c. 8. &amp;</hi>
+10.</note> did ariſe, who did gain-ſay and deny the Deity of Ieſus Chriſt, holding Chriſt to be a meer man, or whole Chriſt to be a creature, as Maſter <hi>Knowls</hi> doth, <hi>page</hi> 20. &amp;c.—</p>
+            <p n="3">3. Becauſe of the great work aſcribed to the Son of God
+<hi>verſ. 20.—And hath given us an underſtanding to know him.—</hi>This is the Royal Priviledge of the moſt high, as appears by the Saints prayers, <hi>Eph. 1. 17. Col.</hi> 1. 9. And by Gods performance, 1
+<hi>King. 3. 12. I have given thee a wiſe and underſtanding heart.</hi>—Or if you pleaſe, let me forme your Gloſſe into an Argument.</p>
+            <p>He that hath annoint the eyes of our minds, that we might ſavingly know God is the true God. But Ieſus Chriſt hath ſo annointed—Therefore—</p>
+            <p>The Minor is your own, <hi>p.</hi> 11. The Major is as clear as the Sun, yet take the ſtrength of it in theſe few poſiti<g ref="char:EOLhyphen"/>ons briefly.
+<list>
+                  <item>1. Saving knowledge is a gift, <hi>Mat. 13. 11. To you it is GIVEN to know</hi>—</item>
+                  <item>2. Its God only who gives this knowledge, 2 <hi>Cor. 4. 6. God who commanded the light to ſhine out of darkneſſe, hath ſhined in our hearts</hi>—</item>
+                  <item>3. This knowledge can never be had, God not giving it,
+<hi>Deut.</hi> 28.</item>
+                  <item>4.—Now its your own Conceſſion, Ieſus Chriſt gives this knowledge.</item>
+               </list>
+            </p>
+            <p n="4">4. Becauſe beleevers are ſaid (in the ſame verſe) to be in him that is true, which the Apoſtle expounds to be e<g ref="char:EOLhyphen"/>ven in his Son Ieſus Chriſt, <hi>In him that is true,</hi> who is he? his Son Ieſus Chriſt. And leaſt any ſhould doubt of
+<pb n="22" facs="tcp:117818:15"/> whom he ſpeaks, he adds immediatly. <hi>This is the true God.</hi>
+            </p>
+            <p n="5">5. Becauſe of the proper ſignification, and frequent, nay conſtant uſe of the Relative
+<note n="d" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <hi>THIS,</hi> which relates to the next member or antecedent, and therefore to the Son of God, as hath been ſhewed before. For if <hi>John</hi> had meant as you do, he ſhould have ſaid; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Ille</hi> not <hi>Iſte, THAT</hi> not
+<hi>THIS.</hi> And I challenge you to produce any one text in the New Teſtament to the contrary, and I ſhall candidly confeſſe my ignorance or inadvertency.</p>
+            <p n="6">6. Becauſe Ieſus Chriſt (you confeſſe) is here ſaid to be eternal life, and why then is not Ieſus Chriſt this true God, when
+<note n="e" place="margin">De uno certi ac eodem u<g ref="char:EOLhyphen"/>trumque prae<g ref="char:EOLhyphen"/>dicat, quod (<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Chriſtus verus ſit deus ac vita aeter<g ref="char:EOLhyphen"/>na. <hi>Calv. in loc.</hi>
+               </note> both are ſpoken of one and the ſame Perſon? Certainly if Ieſus Chriſt be acknowledged here to be
+<note n="f" place="margin">Illa aeterna vita. <hi>Piſc.</hi>
+               </note> the eternal life, it cannot be denied (according to the laws of a true copulate Axiom) that THIS JESUS CHRIST IS THE TRUE GOD. Indeed if we take your Gloſſe by it ſelf in the cloſe of your firſt anſwer, it will not of neceſſity follow, For Gods ordinances and our performances,
+<note n="g" place="margin">Via and Reg<g ref="char:EOLhyphen"/>num, non cau<g ref="char:EOLhyphen"/>ſa regnandi.
+<hi>Bern.</hi>
+               </note> are the way to eternal life. If this be your meaning, what is it but a crumb of Socinianiſm, and contrary to the ſtream of Expoſitors? But in charity I will judge you to be of the ſame mind
+<note n="h" place="margin">Page 8.</note> with <hi>Pareus,</hi> and your learned and godly man mentioned. <hi>page</hi> 9. That Chriſt is alſo the Author of eternal life to all that obey him. In this ſenſe pure reaſon cannot but bring in this Verdict (to uſe your own expreſſion,
+<hi>pag.</hi> 35.) <hi>THIS JE<g ref="char:EOLhyphen"/>S<g ref="char:V">Ʋ</g>S CHRIST IS THE TRUE GOD.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
